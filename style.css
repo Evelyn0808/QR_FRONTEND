@@ -1,0 +1,71 @@
+body {
+    background-color: #C9D9E3;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+p, h2, h3, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    background-color: #FFF;
+
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    width: 320px;
+
+    border-radius: 20px;
+
+    padding: 15px;
+    
+    margin: auto;
+
+    position: absolute;
+
+    top: 150px;
+    
+    left: 500px;
+
+    transform: translate(-10%, -10%);
+}
+
+#card-header {
+    background-color:#2b7df9;
+    width: 100%;
+    border-radius: 10px;
+
+
+}
+#card-body{
+    padding-top: 20px;
+}
+
+
+.card-header-img {
+    width: 100%;
+}
+
+h3 {
+font-size: 24px;
+text-align: center;
+
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color:#3958A7
+
+
+    
+
+
+}
+
+
+
+    
+   
+
+
